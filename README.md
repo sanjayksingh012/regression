@@ -4,3 +4,5 @@
 3. 3_LinearRegression- perform linear regression on 70% training, 30% testing on housing dataset.
 4. 4_RANSACRegressor-Perform RANSACRegression on housing dataset.
 5. 5_Ridege_Lasso_ElsticNet-perform linear regression varient Ridge, Lasso and Elstic Net.
+6. 6_polynomial regression
+7. Random forest and decion tree regression.
